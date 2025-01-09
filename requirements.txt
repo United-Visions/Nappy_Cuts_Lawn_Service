@@ -1,0 +1,11 @@
+Create three HTML files: index.html, services.html, and contact.html
+Use Picnic CSS framework for styling
+Implement Material Icons for visual elements
+Include Vivus library for potential SVG animations
+Ensure responsive design for mobile and desktop viewing
+Replace placeholder content with actual business information
+Test all links and form functionality
+Optimize images for web (if any are added later)
+Ensure accessibility standards are met
+Cross
+browser compatibility testing
